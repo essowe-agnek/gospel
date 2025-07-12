@@ -1,9 +1,9 @@
 // Liste des pistes audio (vérifie que les noms de fichiers sont en minuscules dans le dossier audio/)
 const playlist = [
-  { title: "Worship 1 - 13 minutes", file: "audio/Worship1_13_Minutes.opus" },
-  { title: "Worship 2 - 27 minutes", file: "audio/Worship2_27_minutes.opus" },
-  { title: "Worship 3 - 40 minutes", file: "audio/Worship3_40_minutes.opus" },
-  { title: "Louange 1 - 12 minutes", file: "audio/Louange1_12_Minutes.opus.opus" },
+  { title: "Worship 1 - 13 minutes", file: "audio/worship1_13_minutes.opus" },
+  { title: "Worship 2 - 27 minutes", file: "audio/worship2_27_minutes.opus" },
+  { title: "Worship 3 - 40 minutes", file: "audio/worship3_40_minutes.opus" },
+  { title: "Louange 1 - 12 minutes", file: "audio/louange1_12_minutes.opus" },
 ];
 
 const container = document.getElementById("playlist-container");
